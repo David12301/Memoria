@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\David\\source\\repos\\Memoria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|d:\\users\\david\\source\\repos\\memoria\\memoria\\juego.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|solutionrelative:memoria\\juego.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|d:\\users\\david\\source\\repos\\memoria\\memoria\\juego.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|solutionrelative:memoria\\juego.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|D:\\Users\\David\\source\\repos\\Memoria\\memoria\\scripts\\juego\\juego.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|solutionrelative:memoria\\scripts\\juego\\juego.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|D:\\Users\\David\\source\\repos\\Memoria\\memoria\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|solutionrelative:memoria\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|D:\\Users\\David\\source\\repos\\Memoria\\memoria\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|solutionrelative:memoria\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|D:\\Users\\David\\source\\repos\\Memoria\\memoria\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|solutionrelative:memoria\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|d:\\users\\david\\source\\repos\\memoria\\memoria\\app_code\\model\\selectresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|solutionrelative:memoria\\app_code\\model\\selectresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9F5A47-842B-4A9D-B720-386F3BCEBD11}|MemoriaAPI\\MemoriaAPI.csproj|d:\\users\\david\\source\\repos\\memoria\\memoriaapi\\controllers\\juegocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9F5A47-842B-4A9D-B720-386F3BCEBD11}|MemoriaAPI\\MemoriaAPI.csproj|solutionrelative:memoriaapi\\controllers\\juegocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9185BE8E-161E-4731-8C89-B4EE7270AEC8}|MemoriaAPI.Entidades\\MemoriaAPI.Entidades.csproj|d:\\users\\david\\source\\repos\\memoria\\memoriaapi.entidades\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9185BE8E-161E-4731-8C89-B4EE7270AEC8}|MemoriaAPI.Entidades\\MemoriaAPI.Entidades.csproj|solutionrelative:memoriaapi.entidades\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9185BE8E-161E-4731-8C89-B4EE7270AEC8}|MemoriaAPI.Entidades\\MemoriaAPI.Entidades.csproj|D:\\Users\\David\\source\\repos\\Memoria\\memoriaapi.entidades\\grilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9185BE8E-161E-4731-8C89-B4EE7270AEC8}|MemoriaAPI.Entidades\\MemoriaAPI.Entidades.csproj|solutionrelative:memoriaapi.entidades\\grilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|D:\\Users\\David\\source\\repos\\Memoria\\memoria\\scripts\\juego\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|solutionrelative:memoria\\scripts\\juego\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|d:\\users\\david\\source\\repos\\memoria\\memoria\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|solutionrelative:memoria\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|d:\\users\\david\\source\\repos\\memoria\\memoria\\app_code\\getrequesthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|solutionrelative:memoria\\app_code\\getrequesthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|d:\\users\\david\\source\\repos\\memoria\\memoria\\app_code\\model\\rootobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|solutionrelative:memoria\\app_code\\model\\rootobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9F5A47-842B-4A9D-B720-386F3BCEBD11}|MemoriaAPI\\MemoriaAPI.csproj|D:\\Users\\David\\source\\repos\\Memoria\\memoriaapi\\controllers\\validacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9F5A47-842B-4A9D-B720-386F3BCEBD11}|MemoriaAPI\\MemoriaAPI.csproj|solutionrelative:memoriaapi\\controllers\\validacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|D:\\Users\\David\\source\\repos\\Memoria\\memoria\\app_code\\model\\pairvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|solutionrelative:memoria\\app_code\\model\\pairvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9F5A47-842B-4A9D-B720-386F3BCEBD11}|MemoriaAPI\\MemoriaAPI.csproj|d:\\users\\david\\source\\repos\\memoria\\memoriaapi\\controllers\\cartascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9F5A47-842B-4A9D-B720-386F3BCEBD11}|MemoriaAPI\\MemoriaAPI.csproj|solutionrelative:memoriaapi\\controllers\\cartascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36934F72-58CF-45C1-B517-4DC45420D591}|MemoriaAPI.Logica\\MemoriaAPI.Logica.csproj|d:\\users\\david\\source\\repos\\memoria\\memoriaapi.logica\\juegologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36934F72-58CF-45C1-B517-4DC45420D591}|MemoriaAPI.Logica\\MemoriaAPI.Logica.csproj|solutionrelative:memoriaapi.logica\\juegologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36934F72-58CF-45C1-B517-4DC45420D591}|MemoriaAPI.Logica\\MemoriaAPI.Logica.csproj|d:\\users\\david\\source\\repos\\memoria\\memoriaapi.logica\\cartaslogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36934F72-58CF-45C1-B517-4DC45420D591}|MemoriaAPI.Logica\\MemoriaAPI.Logica.csproj|solutionrelative:memoriaapi.logica\\cartaslogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|D:\\Users\\David\\source\\repos\\Memoria\\memoria\\app_code\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|solutionrelative:memoria\\app_code\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9F5A47-842B-4A9D-B720-386F3BCEBD11}|MemoriaAPI\\MemoriaAPI.csproj|D:\\Users\\David\\source\\repos\\Memoria\\memoriaapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9F5A47-842B-4A9D-B720-386F3BCEBD11}|MemoriaAPI\\MemoriaAPI.csproj|solutionrelative:memoriaapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|D:\\Users\\David\\source\\repos\\Memoria\\memoria\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{80B7B10F-BC3E-4214-4ADF-099DDC622C4B}|D:\\Users\\David\\source\\repos\\Memoria\\Memoria|solutionrelative:memoria\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Memoria\\Default.aspx.cs",
+              "ToolTip": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\Default.aspx.cs",
+              "RelativeToolTip": "Memoria\\Default.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T22:57:48.011Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Juego.aspx.cs",
+              "DocumentMoniker": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\Juego.aspx.cs",
+              "RelativeDocumentMoniker": "Memoria\\Juego.aspx.cs",
+              "ToolTip": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\Juego.aspx.cs",
+              "RelativeToolTip": "Memoria\\Juego.aspx.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwDwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T22:14:44.204Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Juego.aspx",
+              "DocumentMoniker": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\Juego.aspx",
+              "RelativeDocumentMoniker": "Memoria\\Juego.aspx",
+              "ToolTip": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\Juego.aspx",
+              "RelativeToolTip": "Memoria\\Juego.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-24T22:57:44.58Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Juego.js",
+              "DocumentMoniker": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\Scripts\\Juego\\Juego.js",
+              "RelativeDocumentMoniker": "Memoria\\Scripts\\Juego\\Juego.js",
+              "ToolTip": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\Scripts\\Juego\\Juego.js",
+              "RelativeToolTip": "Memoria\\Scripts\\Juego\\Juego.js",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwFUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-24T23:21:38.422Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.css",
+              "DocumentMoniker": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\Content\\Site.css",
+              "RelativeDocumentMoniker": "Memoria\\Content\\Site.css",
+              "ToolTip": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\Content\\Site.css",
+              "RelativeToolTip": "Memoria\\Content\\Site.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-25T00:43:31.941Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\Web.config",
+              "RelativeDocumentMoniker": "Memoria\\Web.config",
+              "ToolTip": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\Web.config",
+              "RelativeToolTip": "Memoria\\Web.config",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAIIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-24T23:50:48.427Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SelectResult.cs",
+              "DocumentMoniker": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\App_Code\\Model\\SelectResult.cs",
+              "RelativeDocumentMoniker": "Memoria\\App_Code\\Model\\SelectResult.cs",
+              "ToolTip": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\App_Code\\Model\\SelectResult.cs",
+              "RelativeToolTip": "Memoria\\App_Code\\Model\\SelectResult.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:08:37.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Grilla.cs",
+              "DocumentMoniker": "D:\\Users\\David\\source\\repos\\Memoria\\MemoriaAPI.Entidades\\Grilla.cs",
+              "RelativeDocumentMoniker": "MemoriaAPI.Entidades\\Grilla.cs",
+              "ToolTip": "D:\\Users\\David\\source\\repos\\Memoria\\MemoriaAPI.Entidades\\Grilla.cs",
+              "RelativeToolTip": "MemoriaAPI.Entidades\\Grilla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:08:54.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JuegoController.cs",
+              "DocumentMoniker": "D:\\Users\\David\\source\\repos\\Memoria\\MemoriaAPI\\Controllers\\JuegoController.cs",
+              "RelativeDocumentMoniker": "MemoriaAPI\\Controllers\\JuegoController.cs",
+              "ToolTip": "D:\\Users\\David\\source\\repos\\Memoria\\MemoriaAPI\\Controllers\\JuegoController.cs",
+              "RelativeToolTip": "MemoriaAPI\\Controllers\\JuegoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:23:22.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RootObject.cs",
+              "DocumentMoniker": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\App_Code\\Model\\RootObject.cs",
+              "RelativeDocumentMoniker": "Memoria\\App_Code\\Model\\RootObject.cs",
+              "ToolTip": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\App_Code\\Model\\RootObject.cs",
+              "RelativeToolTip": "Memoria\\App_Code\\Model\\RootObject.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:01:44.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Carta.cs",
+              "DocumentMoniker": "D:\\Users\\David\\source\\repos\\Memoria\\MemoriaAPI.Entidades\\Carta.cs",
+              "RelativeDocumentMoniker": "MemoriaAPI.Entidades\\Carta.cs",
+              "ToolTip": "D:\\Users\\David\\source\\repos\\Memoria\\MemoriaAPI.Entidades\\Carta.cs",
+              "RelativeToolTip": "MemoriaAPI.Entidades\\Carta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:32:58.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\Default.aspx",
+              "RelativeDocumentMoniker": "Memoria\\Default.aspx",
+              "ToolTip": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\Default.aspx",
+              "RelativeToolTip": "Memoria\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-25T13:54:40.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Main.js",
+              "DocumentMoniker": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\Scripts\\Juego\\Main.js",
+              "RelativeDocumentMoniker": "Memoria\\Scripts\\Juego\\Main.js",
+              "ToolTip": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\Scripts\\Juego\\Main.js",
+              "RelativeToolTip": "Memoria\\Scripts\\Juego\\Main.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-24T23:19:01.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ValidacionController.cs",
+              "DocumentMoniker": "D:\\Users\\David\\source\\repos\\Memoria\\MemoriaAPI\\Controllers\\ValidacionController.cs",
+              "RelativeDocumentMoniker": "MemoriaAPI\\Controllers\\ValidacionController.cs",
+              "ToolTip": "D:\\Users\\David\\source\\repos\\Memoria\\MemoriaAPI\\Controllers\\ValidacionController.cs",
+              "RelativeToolTip": "MemoriaAPI\\Controllers\\ValidacionController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T23:53:39.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetRequestHelper.cs",
+              "DocumentMoniker": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\App_Code\\GetRequestHelper.cs",
+              "RelativeDocumentMoniker": "Memoria\\App_Code\\GetRequestHelper.cs",
+              "ToolTip": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\App_Code\\GetRequestHelper.cs",
+              "RelativeToolTip": "Memoria\\App_Code\\GetRequestHelper.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwEsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:23:40.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PairValue.cs",
+              "DocumentMoniker": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\App_Code\\Model\\PairValue.cs",
+              "RelativeDocumentMoniker": "Memoria\\App_Code\\Model\\PairValue.cs",
+              "ToolTip": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\App_Code\\Model\\PairValue.cs",
+              "RelativeToolTip": "Memoria\\App_Code\\Model\\PairValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:03:21.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\App_Code\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Memoria\\App_Code\\RouteConfig.cs",
+              "ToolTip": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\App_Code\\RouteConfig.cs",
+              "RelativeToolTip": "Memoria\\App_Code\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T23:55:32.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JuegoLogica.cs",
+              "DocumentMoniker": "D:\\Users\\David\\source\\repos\\Memoria\\MemoriaAPI.Logica\\JuegoLogica.cs",
+              "RelativeDocumentMoniker": "MemoriaAPI.Logica\\JuegoLogica.cs",
+              "ToolTip": "D:\\Users\\David\\source\\repos\\Memoria\\MemoriaAPI.Logica\\JuegoLogica.cs",
+              "RelativeToolTip": "MemoriaAPI.Logica\\JuegoLogica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:23:07.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartasController.cs",
+              "DocumentMoniker": "D:\\Users\\David\\source\\repos\\Memoria\\MemoriaAPI\\Controllers\\CartasController.cs",
+              "RelativeDocumentMoniker": "MemoriaAPI\\Controllers\\CartasController.cs",
+              "ToolTip": "D:\\Users\\David\\source\\repos\\Memoria\\MemoriaAPI\\Controllers\\CartasController.cs",
+              "RelativeToolTip": "MemoriaAPI\\Controllers\\CartasController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:31:58.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CartasLogica.cs",
+              "DocumentMoniker": "D:\\Users\\David\\source\\repos\\Memoria\\MemoriaAPI.Logica\\CartasLogica.cs",
+              "RelativeDocumentMoniker": "MemoriaAPI.Logica\\CartasLogica.cs",
+              "ToolTip": "D:\\Users\\David\\source\\repos\\Memoria\\MemoriaAPI.Logica\\CartasLogica.cs",
+              "RelativeToolTip": "MemoriaAPI.Logica\\CartasLogica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:35:16.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\Users\\David\\source\\repos\\Memoria\\MemoriaAPI\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "MemoriaAPI\\Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\Users\\David\\source\\repos\\Memoria\\MemoriaAPI\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "MemoriaAPI\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T23:53:37.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Site.master",
+              "DocumentMoniker": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\Site.master",
+              "RelativeDocumentMoniker": "Memoria\\Site.master",
+              "ToolTip": "D:\\Users\\David\\source\\repos\\Memoria\\Memoria\\Site.master",
+              "RelativeToolTip": "Memoria\\Site.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-24T23:46:22.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

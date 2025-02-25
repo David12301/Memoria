@@ -1,0 +1,9 @@
+D:\Users\David\source\repos\Memoria\MemoriaAPI.Logica\bin\Release\MemoriaAPI.Logica.dll
+D:\Users\David\source\repos\Memoria\MemoriaAPI.Logica\bin\Release\MemoriaAPI.Logica.pdb
+D:\Users\David\source\repos\Memoria\MemoriaAPI.Logica\bin\Release\MemoriaAPI.Entidades.dll
+D:\Users\David\source\repos\Memoria\MemoriaAPI.Logica\bin\Release\MemoriaAPI.Entidades.pdb
+D:\Users\David\source\repos\Memoria\MemoriaAPI.Logica\obj\Release\MemoriaAPI.Logica.csproj.AssemblyReference.cache
+D:\Users\David\source\repos\Memoria\MemoriaAPI.Logica\obj\Release\MemoriaAPI.Logica.csproj.CoreCompileInputs.cache
+D:\Users\David\source\repos\Memoria\MemoriaAPI.Logica\obj\Release\MemoriaA.FE440C49.Up2Date
+D:\Users\David\source\repos\Memoria\MemoriaAPI.Logica\obj\Release\MemoriaAPI.Logica.dll
+D:\Users\David\source\repos\Memoria\MemoriaAPI.Logica\obj\Release\MemoriaAPI.Logica.pdb
